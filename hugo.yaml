@@ -8,6 +8,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+defaultContentLanguage: "fr" # Change to your desired language code
+
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -15,9 +18,9 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Jules Guillot
-  description: "Personal Website"
+  description: "Welcome to my Personal Website"
   keywords: [Blog, Portfolio]
-  author: Me
+  author: Jules Guillot
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -30,7 +33,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -78,7 +81,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/jules-guillot/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/Jules-G1"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -86,7 +89,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/jguillot.blog/content"
+    URL: "https://github.com/Jules-G1/jguillot.blog/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
