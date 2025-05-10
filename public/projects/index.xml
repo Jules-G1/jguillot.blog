@@ -17,10 +17,24 @@
     </item>
     <item>
       <title>GPT Chatbot</title>
+      <link>http://localhost:1313/projects/project3/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project3/</guid>
+      <description>An AI-powered chatbot built with Python and OpenAI.</description>
+    </item>
+    <item>
+      <title>GPT Chatbot</title>
+      <link>http://localhost:1313/projects/project4/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project4/</guid>
+      <description>An AI-powered chatbot built with Python and OpenAI.</description>
+    </item>
+    <item>
+      <title>Analytics Tools Comparator</title>
       <link>http://localhost:1313/projects/project1/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/project1/</guid>
-      <description>An AI-powered chatbot built with Python and OpenAI.</description>
+      <description>A curated list of product analytics tools, with details on main features.</description>
     </item>
   </channel>
 </rss>
