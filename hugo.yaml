@@ -1,6 +1,7 @@
 baseURL: "https://jules-g1.github.io/"
 title: Jules Guillot
-paginate: 5
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true
