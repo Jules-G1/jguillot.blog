@@ -8,8 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-defaultContentLanguage: "fr" # Change to your desired language code
-
+defaultContentLanguage: "en" # Change to your desired language code
 
 minify:
   disableXML: true
@@ -18,21 +17,19 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Jules Guillot
-  description: "Welcome to my Personal Website"
-  keywords: [Blog, Portfolio]
+  description: "Welcome to my Personal Website, aka the graveyard of unfinished side-project..."
+  keywords: [Blog, Portfolio, Jules, Guillot, Jules Guillot, Data]
   author: Jules Guillot
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: auto
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -46,7 +43,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "assets/face.jpeg"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -61,16 +58,14 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi there \U0001F44B"
-    subtitle: "Welcome to my blog"
-    imageUrl: "https://avatars.githubusercontent.com/u/57092931"
+    subtitle: "Welcome to my personal website aka the graveyard of my unfinished side-projects"
+    imageUrl: "assets/face.jpeg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: that's me.
     buttons:
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -106,14 +101,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 1
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 2
+    - identifier: Uses
+      name: Uses
+      url: /posts/uses/
+      weight: 3
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

@@ -1,26 +1,24 @@
 ---
 title: "💎 Quand la Data Rencontre le Double Diamant : L'Équation du Succès"
 date: 2024-11-08T00:00:00+00:00
-# weight: 1
 tags: ["Product Analytics"]
-# categories: ["Category"]
 author: "Jules Guillot"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
+disableShare: true
 disableHLJS: false
-hideSummary: false
+hideSummary: true
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     image: "dd_image.png" # image path/url

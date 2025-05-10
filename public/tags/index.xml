@@ -4,13 +4,8 @@
     <title>Tags on Jules Guillot</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Jules Guillot</description>
-    <image>
-      <title>Jules Guillot</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
+    <language>en</language>
     <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>

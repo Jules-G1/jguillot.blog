@@ -4,21 +4,23 @@
     <title>Posts on Jules Guillot</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Jules Guillot</description>
-    <image>
-      <title>Jules Guillot</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
+    <language>en</language>
     <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💎 Quand la Data Rencontre le Double Diamant : L&#39;Équation du Succès</title>
-      <link>http://localhost:1313/posts/quand_la_data_rencontre_le_double_diamant_l_equation_du_succ%C3%A8s/</link>
+      <link>http://localhost:1313/posts/double_diamant/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/quand_la_data_rencontre_le_double_diamant_l_equation_du_succ%C3%A8s/</guid>
+      <guid>http://localhost:1313/posts/double_diamant/</guid>
       <description>Travailler dans un environnement de start-up ou de scale-up présente un éventail de défis uniques, notamment en matière de priorisation des initiatives de développement produit. Face à des contraintes de temps et de ressources, il est essentiel de ne pas se reposer uniquement sur l&amp;rsquo;intuition pour déterminer la marche à suivre. L&amp;rsquo;analyse de données devient alors un outil stratégique crucial pour guider les décisions, en éclairant le chemin qui mène d&amp;rsquo;une idée large à une action ciblée et efficace.</description>
+    </item>
+    <item>
+      <title>Uses</title>
+      <link>http://localhost:1313/posts/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/uses/</guid>
+      <description>Tools and things I use.</description>
     </item>
   </channel>
 </rss>
