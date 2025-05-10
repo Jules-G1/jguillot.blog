@@ -45,7 +45,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "https://github.com/Jules-G1/jguillot.blog/blob/main/assets/face.jpeg"
+    favicon: "img/face.jpg"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -61,13 +61,15 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi there \U0001F44B"
     subtitle: "Welcome to my personal website aka the graveyard of my unfinished side-projects"
-    imageUrl: "https://github.com/Jules-G1/jguillot.blog/blob/main/assets/face.jpeg"
+    imageUrl: "img/face.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: that's me.
+    imageTitle: me.
     buttons:
       - name: Posts
         url: posts
+      - name: Projects
+        url: projects
 
   # home-info mode
   homeInfoParams:
