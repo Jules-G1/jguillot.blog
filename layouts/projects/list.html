@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="notion-gallery">
+  <div class="gallery-container">
+    {{ range .Pages.ByDate.Reverse }}
+      <div class="notion-card">
+        <!-- Wrap only the content part of the card with the anchor tag -->
+        <a href="{{ .Permalink }}" class="notion-card-link">
+          <div class="notion-card-image">
+            {{ with .Params.image }}
+            <img src="{{ . }}" alt="{{ $.Title }}">
+            {{ end }}
+          </div>
+          <div class="notion-card-content">
+            <h3>{{ .Title }}</h3>
+            <p class="notion-summary">{{ .Params.summary }}</p>
+          </div>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

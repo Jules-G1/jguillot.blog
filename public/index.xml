@@ -6,14 +6,28 @@
     <description>Recent content on Jules Guillot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT Chatbot</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project2/</guid>
+      <description>An AI-powered chatbot built with Python and OpenAI.</description>
+    </item>
     <item>
       <title>💎 Quand la Data Rencontre le Double Diamant : L&#39;Équation du Succès</title>
       <link>http://localhost:1313/posts/double_diamant/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/double_diamant/</guid>
       <description>Travailler dans un environnement de start-up ou de scale-up présente un éventail de défis uniques, notamment en matière de priorisation des initiatives de développement produit. Face à des contraintes de temps et de ressources, il est essentiel de ne pas se reposer uniquement sur l&amp;rsquo;intuition pour déterminer la marche à suivre. L&amp;rsquo;analyse de données devient alors un outil stratégique crucial pour guider les décisions, en éclairant le chemin qui mène d&amp;rsquo;une idée large à une action ciblée et efficace.</description>
+    </item>
+    <item>
+      <title>GPT Chatbot</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description>An AI-powered chatbot built with Python and OpenAI.</description>
     </item>
     <item>
       <title>Uses</title>
