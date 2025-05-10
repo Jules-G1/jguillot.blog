@@ -43,7 +43,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "assets/face.jpeg"
+    favicon: "https://github.com/Jules-G1/jguillot.blog/blob/main/assets/face.jpeg"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
